@@ -1,3 +1,15 @@
+__My Remarks:__ 
+
+1. This file is only the project overview, my code implemented in [RNN_project.ipynb](https://github.com/Amichai-a/AIND-Term2-Recurrent-Neural-Network-Projects/blob/master/RNN_project.ipynb) and some functions implemented in [my_answers.py](https://github.com/Amichai-a/AIND-Term2-Recurrent-Neural-Network-Projects/blob/master/my_answers.py)
+
+2. On this project I used an RNN and an LSTM to predict future stock prices
+
+3. I was able to achieveachieved testing error of 0.013
+
+4. I used an RNN and an LSTM to create an English language sequence 
+
+--------
+
 # Recurrent Neural Networks course project: time series prediction and text generation
 
 ## Accelerating the Training Process 
